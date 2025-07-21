@@ -1,4 +1,4 @@
-# Bilal Ahmed - Machine Learning Internship Profile
+# Bilal Ahmed - Machine Learning Profile
 
 ## 👨‍💻 About Me
 
