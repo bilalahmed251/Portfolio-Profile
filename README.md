@@ -6,10 +6,8 @@ I am a motivated Computer Science student currently pursuing a Bachelor of Scien
 
 ## 📫 Contact
 
-- 📞 Phone: 0323-9255339  
-- 📧 Email: [ba6503833@gmail.com](mailto:ba6503833@gmail.com)  
-- 🔗 GitHub: [github.com/bilalahmed251](https://github.com/bilalahmed251)  
-- 🔗 LinkedIn: [linkedin.com/in/bilal-ahmed-738a84290](https://linkedin.com/in/bilal-ahmed-738a84290)
+- 📧 Email: (ba6503833@gmail.com)  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/bilalahmed-data/)
 
 ## 🎓 Education
 
